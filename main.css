@@ -198,6 +198,7 @@ table{
 
 h4 {
     margin-left: 105px;
+    color:white;
 }
 
 .buttons {
@@ -246,10 +247,6 @@ newsletter_body {
         margin-right: 25px;
         margin-top: 25px;
     }
-}
-
-h4 {
-    color: white;
 }
 
 
